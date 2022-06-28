@@ -139,13 +139,6 @@ figure {
 h1 {
     font-family: 'Inter', sans-serif;
 }
-strong {
-    font-size: 30px;
-    }
-svg, img {
-    max-width: 100%;
-    height: auto;
-}
 img {
     max-width: 100%;
     border: none;
@@ -154,6 +147,13 @@ img {
 }
 img, svg {
     vertical-align: middle;
+}
+strong {
+    font-size: 30px;
+    }
+svg, img {
+    max-width: 100%;
+    height: auto;
 }
 .row {
     --bs-gutter-x: 1.5rem;
